@@ -71,10 +71,26 @@
             }
         },
         {
+            "Key": "2ff7971c-46e6-4270-b570-76bbc2fb60b6",
+            "Value": {
+                "id": "d17a6913-4007-433f-9381-176b8efd180f",
+                "resourcePath": "objects\\obj_deathObj\\obj_deathObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37037334-e0bd-4955-b727-1d7f6625d6a4",
             "Value": {
                 "id": "9acf0519-90b8-42a0-8f7e-a571dd1eefe5",
                 "resourcePath": "objects\\obj_deathwall\\obj_deathwall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4416ba28-aea4-46b7-af45-ed31e4862c0f",
+            "Value": {
+                "id": "be696642-62b5-44fb-a65f-a028c384546b",
+                "resourcePath": "objects\\cont_init\\cont_init.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -135,11 +151,27 @@
             }
         },
         {
+            "Key": "6ca649ed-c484-48d1-a6bd-e11811315ae7",
+            "Value": {
+                "id": "9525c017-1e88-4de1-a08f-a6a7c56682f7",
+                "resourcePath": "sprites\\spr_wasp\\spr_wasp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70ddff15-ac27-4b03-908e-b852e082c95e",
             "Value": {
                 "id": "211777e9-7d51-4457-b811-3497d50f706d",
                 "resourcePath": "views\\70ddff15-ac27-4b03-908e-b852e082c95e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72fb8862-cb3b-4f04-bd6a-4e41cd9866ca",
+            "Value": {
+                "id": "6ea15fd4-8088-4c4b-883e-1cd7d6a01699",
+                "resourcePath": "objects\\obj_wasp_enemy\\obj_wasp_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +212,14 @@
                 "id": "df0623f5-5011-4370-9fb6-a743900a3991",
                 "resourcePath": "views\\ab995cf5-bbfc-4693-be7f-c1e1f00c55d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "adfea67f-4a82-4840-98b8-9ce836816197",
+            "Value": {
+                "id": "dfdccd84-fb0e-4a3b-80bc-0746a6e59a53",
+                "resourcePath": "objects\\cont_obstacleSpawn\\cont_obstacleSpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +268,14 @@
                 "id": "e0d879ec-d38b-4950-9773-f6045fc75c5f",
                 "resourcePath": "views\\f99568be-e87d-46ab-bdb1-1e5c6d219af9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa23b08b-d2a4-4b50-bd0d-581b59d4c4a4",
+            "Value": {
+                "id": "a73384a3-cc7f-4dca-a06d-eee35c28be73",
+                "resourcePath": "rooms\\rm_init\\rm_init.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
