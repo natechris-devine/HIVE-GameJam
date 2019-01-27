@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1998c73a-008b-4e17-9368-2194883b1232",
+            "Value": {
+                "id": "15e4f911-e996-44bf-8fda-8d6b3b131c29",
+                "resourcePath": "objects\\obj_honeyCoin\\obj_honeyCoin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1bad4431-d4df-487c-94c9-af2d2af674c4",
             "Value": {
                 "id": "d5a6a585-f330-41f9-88c8-db3854e0e508",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "557d115a-0628-4370-a2dd-9aa369533501",
+            "Value": {
+                "id": "e4b80490-9074-4812-9be8-e88c94c205af",
+                "resourcePath": "sprites\\spr_spike\\spr_spike.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "588da718-acef-4822-92aa-9470dfc6d910",
             "Value": {
                 "id": "3402131f-2681-462a-8fa7-947652cf54a9",
@@ -130,7 +146,7 @@
             "Key": "59e7985b-596d-45f6-857e-451d8d3bc37b",
             "Value": {
                 "id": "943bf8b9-3bb4-49bc-9d60-f0f779f797f7",
-                "resourcePath": "sprites\\spr_bee\\spr_bee.yy",
+                "resourcePath": "sprites\\spr_barryB\\spr_barryB.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -148,14 +164,6 @@
                 "id": "06c00bb8-fd9a-4f81-9455-63e59969a493",
                 "resourcePath": "views\\6530204b-d942-4e22-9bdc-a04224a71ea8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "6ca649ed-c484-48d1-a6bd-e11811315ae7",
-            "Value": {
-                "id": "9525c017-1e88-4de1-a08f-a6a7c56682f7",
-                "resourcePath": "sprites\\spr_wasp\\spr_wasp.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "7cfbdc6f-d97f-49f1-878d-bd895c3237cf",
+            "Value": {
+                "id": "e0bdade4-7794-4e7b-817f-17ffd28ed0b9",
+                "resourcePath": "sprites\\spr_honeyCoin\\spr_honeyCoin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "836028bd-6ab2-4342-b58c-9af921791366",
             "Value": {
                 "id": "bbbb1eb4-007a-41a5-b38a-f33f18d83a1c",
@@ -196,6 +212,14 @@
                 "id": "bf67cb77-33af-4191-a7cf-8330035a99ee",
                 "resourcePath": "views\\8b177b9b-6673-4a5b-a3be-259406475539.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9edba58e-cd88-47c9-95cf-bc716dba4019",
+            "Value": {
+                "id": "85ebcd14-675d-4689-bd56-7f808cdf9c7f",
+                "resourcePath": "sprites\\Vine1\\Vine1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -218,7 +242,7 @@
             "Key": "adfea67f-4a82-4840-98b8-9ce836816197",
             "Value": {
                 "id": "dfdccd84-fb0e-4a3b-80bc-0746a6e59a53",
-                "resourcePath": "objects\\cont_obstacleSpawn\\cont_obstacleSpawn.yy",
+                "resourcePath": "objects\\cont_mainGame\\cont_mainGame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -255,11 +279,27 @@
             }
         },
         {
+            "Key": "f34ee375-25cf-4b7e-bff0-464cc7366c58",
+            "Value": {
+                "id": "78f9d06e-e394-4fb3-a385-27deadfdfc3a",
+                "resourcePath": "sprites\\BG\\BG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "6b5dc472-b580-494f-91e6-0f7ee92f124f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4797b2c-a3c0-4ff0-8ac8-cbf42cfe5a75",
+            "Value": {
+                "id": "d416eeea-a49f-47fc-a029-c62275a53183",
+                "resourcePath": "sprites\\spr_henryH\\spr_henryH.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,7 +1,7 @@
 /// @description Creation of Bee Object
 // You can write your code in this editor
 
-
+__dnd_score = 0;
 
 //Movement Variables
 hoverTime = 0.1*room_speed; //how long to hover (in seconds)
